@@ -1,0 +1,16 @@
+# C# compiled files
+bin/
+obj/
+
+# Rider
+.idea/
+
+# Visual Studio
+.vs/
+
+# User files
+*.user
+*.suo
+
+# Logs
+*.log
